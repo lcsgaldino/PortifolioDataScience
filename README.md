@@ -6,5 +6,5 @@ Obrigado pela visita! Sinta-se a vontade para dar uma olhada nos meus projetos d
 1 - Análise de exploratória de produção e venda de games
 https://github.com/lcsgaldino/PortifolioDataScience/blob/main/VideoGames_AnaliseExp.ipynb
 
-2 - Em construção
-(aguardar)
+2 - Machine Learning aplicada a previsão de tipos de Vinhos
+https://github.com/lcsgaldino/PortifolioDataScience/blob/main/MachineLearningVinhos.ipynb
