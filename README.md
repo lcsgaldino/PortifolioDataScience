@@ -12,3 +12,5 @@ https://github.com/lcsgaldino/PortifolioDataScience/blob/main/VideoGames_Analise
 
 2 - Machine Learning aplicada a previsão de tipos de Vinhos
 https://github.com/lcsgaldino/PortifolioDataScience/blob/main/MachineLearningVinhos.ipynb
+
+3 - Em desenvolvimento
