@@ -13,4 +13,5 @@ https://github.com/lcsgaldino/PortifolioDataScience/blob/main/VideoGames_Analise
 2 - Machine Learning aplicada a previsão de tipos de Vinhos
 https://github.com/lcsgaldino/PortifolioDataScience/blob/main/MachineLearningVinhos.ipynb
 
-3 - Em desenvolvimento
+3 - Detecção de fraudes em cartão de crédito
+https://github.com/lcsgaldino/PortifolioDataScience/blob/main/Detec%C3%A7%C3%A3odeFraude.ipynb
